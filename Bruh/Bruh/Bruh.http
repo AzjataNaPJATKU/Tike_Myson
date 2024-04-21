@@ -1,0 +1,6 @@
+@Bruh_HostAddress = http://localhost:5001
+
+GET {{Bruh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
